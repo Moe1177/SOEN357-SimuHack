@@ -1,6 +1,6 @@
-# Interactive Cybersecurity Simulation
+# SimuHack
 
-This is a code bundle for Interactive Cybersecurity Simulation.
+This is a code bundle for SimuHack.
 
 ## Running the code
 
