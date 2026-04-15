@@ -12,4 +12,3 @@ Run `npm run dev` to start the development server.
 
 Maze is loaded directly from `index.html` using the Maze universal loader snippet.
 
-If you need to swap to your exact Maze-provided snippet later, replace the script tag in `index.html`.
