@@ -10,5 +10,5 @@ Run `npm run dev` to start the development server.
 
 ## Maze usability testing
 
-Maze is loaded directly from `index.html` using the Maze universal loader snippet.
+Maze is loaded directly from `index.html` using the Maze universal loader snippet
 
